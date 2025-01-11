@@ -1,0 +1,266 @@
+
+
+ .fira-sans-regular-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  } 
+  body{
+   background-color:#F5F5F5;
+  }
+  .common-margin{
+    margin: 0 160px;
+  }
+ .btn-primary{
+    background-color: #006A50;
+    text-align: center;
+    font-weight: 400px;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    border-radius: 8px;
+    border: none;
+ 
+
+ }
+
+
+ .head{
+    background-color:#C6E4D6 ;
+    border-radius: 24px;
+ max-width: 1280px 520px;
+margin:120px 160px ;
+
+ }
+ h1{
+    font-size: 56px;
+ }
+ h6{
+    font-size: 24px;
+    color: #0E0E0E;
+
+ }
+  .banner{
+    display: flex;
+    justify-content: space-between;
+   
+    margin-top: 20px;
+    border-radius: 24px;
+    background-color: #C6E4D6;
+    padding: 117px 60px;
+ }
+ .banner-content{
+    max-width: 622px;
+  
+ } 
+ /* .common-margin{
+    margin: 0 160px;
+ } */
+
+.makeborder{
+   padding: 30px;
+   border-radius: 5px;
+   width: 302px;
+background-color: white;
+   border: none;
+   box-shadow: 0px 6px 5px 0 rgb(226, 223, 223);
+ } 
+ .head2{
+    background-color: #ffffff;
+
+ }
+ .visioncard{
+   background-color: #F5F5F5;
+ }
+ .banner2{
+    display: flex;
+    gap: 20px;
+   
+    justify-content: space-around;
+  
+
+ }
+ .boxes{
+    display: flex;
+    gap: 20px;
+ }
+ .boxmake1{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 30px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 5px 0 rgb(226, 223, 223);
+ }
+ .boxmake2{
+    background-color:#C6E4D6;
+    padding: 30px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 5px 0 rgb(226, 223, 223);
+ }
+ .boxmake3{
+    background-color:#F7EBCF;
+    padding: 30px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 5px 0 rgb(226, 223, 223);
+ }
+.head2{
+   padding: 60px;
+   margin-top: 80px;
+}
+ .head3{
+    background-color: #ffffff;
+   margin:160px 20px ;
+ }
+ .font{
+    font-size: 40px;
+ }
+ .head4{
+    background-color: #ffffff;
+    padding: 160px;
+    margin-bottom: 24px;
+ }
+ .recentnews{
+   padding: 160px;
+ }
+ .rnboxes{
+    background-color: white;
+   
+   padding: 30px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 5px 0 rgb(226, 223, 223);
+  
+ }
+ .gap{
+    justify-content: end;
+  margin-bottom: 30px;
+ 
+} 
+ .bordera{
+    border-radius: 24px;
+ }
+ .banner3{
+    display: flex;
+    gap: 20px;
+ }
+ .Blue{
+background-color:#5490F5 ;
+color: #FFFFFF;
+border-radius: 8px;
+border-color:  #5490F5;
+width: 122px;
+height: 41px;
+ }
+ .Green{
+background-color:#09A15C ;
+color: #FFFFFF;
+border-radius: 8px;
+border-color:#09A15C;
+width: 122px;
+height: 41px;
+ }
+ .Yellow{
+background-color: #FFC239;
+color: #FFFFFF;
+border-radius: 8px;
+border-color:  #FFC239;
+width: 122px;
+height: 41px;
+
+ }
+ .quote{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+ }
+ .mdyunus{
+    background-color: white;
+    border-radius: 16px;
+    padding: 48px 24px;
+    box-shadow:0px 6px 5px 0 rgb(226, 223, 223); ;
+
+ }
+ .orgbox{
+   display: flex;
+   justify-content: space-between;
+   gap: 50px;
+   background-color:white ;
+   padding: 64px;
+   border-radius: 24px;
+   margin-bottom: 80px;
+ }
+.image{
+   border-radius: 24px;
+}
+.timedate{
+   display: flex;
+   gap: 12px;
+}
+.newclr{
+   background-color: #006A50;
+   color: white;
+   width: 139px;
+   height: 48px;
+   border-radius: 8px;
+   border: none;
+}
+.card{
+   margin-top: 80px;
+}
+.text-center{
+   align-items: center;
+}
+.donate{
+   margin: 0 160px;
+}
+.donate-section{
+   margin-bottom: 24px;
+   align-items: center;
+}
+.amount{
+   display: flex;
+   justify-content: center;
+   gap: 24px;
+   align-items: center;
+   
+}
+.Taka{
+   font-size: 40px;
+   font-weight: bold;
+   color: rgba(14, 14, 14, 0.8);
+   background-color: white;
+   border-radius: 16px;
+   border: 1px solid rgba(14, 14, 14, 0.15);
+   width: 243px;
+   height: 128px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+   margin-bottom: 32px;
+}
+
+.donate-input{
+width: 100%;
+height: 64px;
+border: none;
+margin-bottom: 32px;
+}
+.btn{
+   display: flex;
+   justify-content: center;
+}
+.donate-btn{
+   font-size: 18px;
+   font-weight: 600;
+   width: 151px;
+   height: 56px;
+   color: white;
+   background-color: #006A50;
+   border-radius: 8px;
+   border: 1px solid rgba(14, 14, 14, 0.1);
+   text-align: center;
+   margin: 0 auto;
+}
+.takaclr{
+   background-color: #53bda2;
+}
